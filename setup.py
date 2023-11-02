@@ -7,14 +7,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="skku-shinhan-bank/koelectra_classfication",
+    name="conformer-MSCRED",
     version="0.0.1",
-    author="SKKU Shinhan Bank",
-    author_email="ajtwlswjddnv1102@gmail.com",
-    description="koelectra classfication",
+    author="jaeyeonkim",
+    author_email="0310kjy@gmail.com",
+    description="conformer-mscred",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/skku-shinhan-bank/koelectra_classification",
+    url="https://github.com/leeyejin1231/conformer_MSCRED",
     packages=find_packages(),
     install_requires=requirements,
 )
