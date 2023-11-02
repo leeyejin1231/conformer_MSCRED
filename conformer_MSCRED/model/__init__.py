@@ -1,1 +1,1 @@
-from .mscred import ConformerMSCRED
+from .mscred import *
